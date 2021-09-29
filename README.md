@@ -1,5 +1,5 @@
 - 17
-- Chi, IL
+- Always working
 - Always learning
 - Self-taught
 - Working in silence 
