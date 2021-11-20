@@ -1,7 +1,4 @@
-- 17
-- Always working
-- Always learning
-- Self-taught
+17
 
 <!---
 whoisjunior/whoisjunior is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
